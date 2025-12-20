@@ -43,7 +43,7 @@
 
 ### 📫 How to Reach Me
 - GitHub: https://github.com/abdularahman1243
-- LinkedIn: *(add if available)*
+- LinkedIn: https://www.linkedin.com/in/abdulrahman-bahadurzai-500260237/
 
 ### ⚡ Fun Fact
 I enjoy building backend systems and connecting them with clean, simple user interfaces 🚀
