@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Abdul Rahman
+## 👋 Hi, I’m Abdul Rahman ' Bahadurzai'
 
 🚀 Backend / Java Developer with hands-on experience in building secure, scalable, and production-ready systems, with working knowledge of frontend technologies.
 
@@ -12,7 +12,7 @@
 - 🎨 Working knowledge of frontend development with **React** and **Thymeleaf**
 
 ### 🛠 Tech Stack
-- **Languages:** Java (11, 17, 21)
+- **Languages:** Java (8, 11, 17, 21, 25)
 - **Backend:** Spring Boot, Spring Security, Spring Data JPA
 - **Frontend:** React, Thymeleaf, HTML, CSS (API integration focus)
 - **Security:** JWT, RBAC, BCrypt
