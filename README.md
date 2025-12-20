@@ -36,6 +36,17 @@
 - Proven ability to design **scalable backend architectures** for high-traffic and enterprise environments
 - Experience with designing message-based workflows to decouple services and improve system scalability
 
+### 📌 Event-Driven CSV Data Ingestion System
+An event-driven backend system that reads CSV files and publishes records to Apache Kafka.  
+Multiple consumers process the events and store data concurrently in two different databases.
+
+**Key Features:**
+- Kafka-based asynchronous data processing
+- Parallel consumers for multi-database persistence
+- Scalable and decoupled system design
+
+**Tech Stack:** Java, Spring Boot, Apache Kafka, MySQL, PostgreSQL
+
 ### 🤝 Looking to Collaborate On
 - Backend & system design projects
 - Java / Spring Boot applications
